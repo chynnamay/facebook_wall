@@ -1,6 +1,13 @@
 $(document).ready(function()
 {
 	$('#message').focus();
+	
 
-	// YOUR CODE GOES HERE
-});
+	
+}); 
+
+console.log()
+
+$("input");
+$("input").val()
+
